@@ -1,0 +1,29 @@
+.logo {
+  width: 40%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.header {
+  background-color: rgba(182, 179, 179, 0);
+  padding-left: 5%;
+  padding-top: 1.5%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.links {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  border: 3px;
+  border-color: black;
+  padding: 5%;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.navbar {
+  display: flex;
+}
